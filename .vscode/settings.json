@@ -12,7 +12,7 @@
             "name": "test",
             "database": "jpacrud",
             "username": "root",
-            "password": "Dirt!12345"
+            "password": "password"
         }
     ]
 }
